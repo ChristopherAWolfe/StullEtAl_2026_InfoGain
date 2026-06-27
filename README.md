@@ -25,4 +25,8 @@ The code associated with th
 3. `S1...` installs all packages necessary for the analysis.
 4. `S2...` runs all analyses including prior sampling, likelihood modeling, and quantification of information gain.
 5. `S3...` imports the results from `S2...` and visualizes information gain across age. Note, to fully recreate the figures, a user will need to combine individual curves from `S3... `.
-6. `S4...` creates Figure 3 in the text, visually demonstrating the information gain from prior to posterior. This code was created by co-author Michael Holton Price. 
+6. `S4...` creates Figure 3 in the text, visually demonstrating the information gain from prior to posterior. This code was created by co-author Michael Holton Price.
+
+To cite this software repository please include:
+
+>Wolfe, C. A., Stull, K. E., Price, M. H., Chu, E. Y., & Corron, L. K. (2026). StullEtAl_2026_InfoGain (Version 2.0.0) [Computer software]. https://doi.org/10.5281/zenodo.20975429
