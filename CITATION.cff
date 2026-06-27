@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Wolfe"
+  given-names: "C. A."
+- family-names: "Stull"
+  given-names: "K. E."
+- family-names: "Price"
+  given-names: "M. H."
+- family-names: "Chu"
+  given-names: "E. Y."
+- family-names: "Corron"
+  given-names: "L. K."
+title: "StullEtAl_2026_InfoGain"
+version: 2.0.0
+doi: 10.5281/zenodo.20975429
+date-released: 2026-06-27
+url: "https://github.com/ChristopherAWolfe/StullEtAl_2026_InfoGain"
